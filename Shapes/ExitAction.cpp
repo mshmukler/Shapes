@@ -14,7 +14,6 @@ namespace Shapes
 
 	void ExitAction::Do() 
 	{
-		int dummy;
 		cout << "Exiting..." << endl;
 		
 		// Removing the shapes from the list will delete the last pointer to them and thier destructor should be called.
