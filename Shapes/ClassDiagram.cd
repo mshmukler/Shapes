@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shapes::Shape" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAEBAA=</HashCode>
+      <FileName>Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::Circle" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAEBAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::Rectangle" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAAAAAAAAAAAABAgAAAAAAAAAQAEBAA=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::Menu" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Shapes::Menu::Action" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Menu.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACBAAAEAAAAAAAAAAAAJAAAAQAAAAAAEAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::PrintAction" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAACAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>PrintAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::ExitAction" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIAAAACAACAAA=</HashCode>
+      <FileName>ExitAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::ShapeAction" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAFAACAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ShapeAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::BuildCircleAction" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIAAAACAIAAAA=</HashCode>
+      <FileName>BuildCircleAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes::BuildRectangleAction" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAACAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>BuildRectangleAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
